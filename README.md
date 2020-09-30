@@ -70,6 +70,8 @@ This may take a few minutes. **It will ask you for your email.** This is
 optional and just automatically adds your email to the links in the project to
 make filling out some forms easier.
 
+A few common issues during `npm run setup --silent` have involved PATH variables (above links or [here](https://github.com/kentcdodds/react-fundamentals/issues/27)), reinstalling git, node, or npm, and clearing npm caches.
+
 If you get any errors, please read through them and see if you can find out what
 the problem is. If you can't work it out on your own then please [file an
 issue][issue] and provide _all_ the output from the commands you ran (even if
@@ -158,12 +160,18 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/sleepyArpan"><img src="https://avatars3.githubusercontent.com/u/50901152?v=4" width="100px;" alt=""/><br /><sub><b>Arpan Chattopadhyay</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=sleepyArpan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/marcosvega91"><img src="https://avatars2.githubusercontent.com/u/5365582?v=4" width="100px;" alt=""/><br /><sub><b>Marco Moretti</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=marcosvega91" title="Code">💻</a></td>
     <td align="center"><a href="http://cindywu.org"><img src="https://avatars3.githubusercontent.com/u/1177031?v=4" width="100px;" alt=""/><br /><sub><b>cindy</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=cindywu" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://lifeiscontent.net/"><img src="https://avatars3.githubusercontent.com/u/180963?v=4" width="100px;" alt=""/><br /><sub><b>Aaron Reisman</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=lifeiscontent" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dev.to/jacobmgevans"><img src="https://avatars1.githubusercontent.com/u/27247160?v=4" width="100px;" alt=""/><br /><sub><b>Jacob M-G Evans</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/pulls?q=is%3Apr+reviewed-by%3AJacobMGEvans" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://jsehull.com"><img src="https://avatars1.githubusercontent.com/u/9935383?v=4" width="100px;" alt=""/><br /><sub><b>Jesse Hull</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=jsehull" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/tcaraccia-riv"><img src="https://avatars2.githubusercontent.com/u/64477810?v=4" width="100px;" alt=""/><br /><sub><b>Tomas Caraccia</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=tcaraccia-riv" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://vk.com/vasilii_kovalev"><img src="https://avatars0.githubusercontent.com/u/10310491?v=4" width="100px;" alt=""/><br /><sub><b>Vasilii Kovalev</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=vasilii-kovalev" title="Code">💻</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the
